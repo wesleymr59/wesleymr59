@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Marques</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **ReactJs, Typescript, Attending Systems Analysis and Development - Fatec Garça**
+- 🌱 I’m currently learning **ReactJs, Attending Systems Analysis and Development - Fatec Garça**
 
 - 📫 How to reach me **wesleymr59@gmail.com**
 

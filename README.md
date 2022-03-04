@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wesley Marques</h1>
 <h3 align="center">Back-End Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesleymr59" alt="wesleymr59" /></a> </p>
-
 - 🌱 I’m currently learning **Python,Attending Systems Analysis and Development - Fatec Garça**
 
 - 📫 How to reach me **wesleymr59@gmail.com**
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleymr59&show_icons=true&theme=dark&locale=en&layout=compact" alt="wesleymr59" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleymr59&show_icons=true&theme=dark&locale=en" alt="wesleymr59" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleymr59&theme=dark" alt="wesleymr59" /></p>

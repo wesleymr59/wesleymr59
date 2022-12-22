@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Marques</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🌱 I’m currently learning ** Python, Golang, Attending postgraduate Software Engineer **
+- 🌱 I’m currently learning **Python, Golang, Attending postgraduate Software Engineer**
 
 - 📫 How to reach me **wesleymr59@gmail.com**
 
